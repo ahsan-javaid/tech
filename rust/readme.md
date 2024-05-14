@@ -9,3 +9,7 @@
 - AWS RUST sdk error stack details
 - Rust error codegen
 - Better to use other languages for ideas...validation
+
+### Rust RoadMap
+
+https://roadmap.sh/rust
