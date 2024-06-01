@@ -1,0 +1,3 @@
+- RAG
+- Streamlit 
+- GPT4o
