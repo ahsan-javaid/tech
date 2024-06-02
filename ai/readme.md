@@ -1,3 +1,6 @@
 - RAG
 - Streamlit 
 - GPT4o
+- Embeddings
+- LangChain channel
+- 
