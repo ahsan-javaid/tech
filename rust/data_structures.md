@@ -7,4 +7,7 @@
 - Mutex | RawLock 
 - Phantom data 
 - CondVar
+
+- Send and Sync traits 
+- Thread parking 
 - 
