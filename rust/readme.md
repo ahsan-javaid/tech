@@ -11,7 +11,7 @@
 - Better to use other languages for ideas...validation
 - https://marabos.nl/atomics/ 
 - https://doc.rust-lang.org/reference/items/static-items.html#using-statics-or-consts
-- 
+- Rust async book
 
 ### Rust RoadMap
 
