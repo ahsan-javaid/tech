@@ -1,3 +1,3 @@
 git add .
-git commit -S -m "doc: update"
+git commit -S -m "doc: zk docs"
 git push origin main
