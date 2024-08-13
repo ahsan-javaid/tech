@@ -22,3 +22,5 @@ https://rust-exercises.com/
 
 ### zk stack
  
+
+ ### idiomatic Rust
