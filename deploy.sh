@@ -1,3 +1,3 @@
 git add .
-git commit -S -m "doc: async std book"
+git commit -S -m "doc: rag tutorial"
 git push origin main

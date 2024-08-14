@@ -12,3 +12,5 @@ https://www.youtube.com/watch?v=vuY2K1atMFQ
 - spring.io projects for ai
 - vector databases 
 - haystack framework 
+- RAG tutorial: https://www.freecodecamp.org/news/mastering-rag-from-scratch/ 
+
