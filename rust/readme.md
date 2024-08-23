@@ -24,3 +24,5 @@ https://rust-exercises.com/
  
 
  ### idiomatic Rust
+
+ https://corrode.dev/blog/idiomatic-rust-resources/
