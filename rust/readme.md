@@ -26,3 +26,6 @@ https://rust-exercises.com/
  ### idiomatic Rust
 
  https://corrode.dev/blog/idiomatic-rust-resources/
+
+ ### Maket yt vds 
+ Small vds on topic like str vs String
