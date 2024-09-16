@@ -29,3 +29,5 @@ https://rust-exercises.com/
 
  ### Maket yt vds 
  Small vds on topic like str vs String
+
+ ### Build a blockchain indexer

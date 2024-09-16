@@ -1,3 +1,3 @@
 git add .
-git commit -S -m "doc: corrode.dev"
+git commit -S -m "doc: indexer"
 git push origin main
