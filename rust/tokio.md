@@ -7,4 +7,4 @@ Client / Server library for http1 and http2
 A gRPC client and server library
 #### Tower
 A component or module for client server helpers like rate limiting, retry, 
-load balancing
+load balancing.
