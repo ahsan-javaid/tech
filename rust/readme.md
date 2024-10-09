@@ -33,3 +33,7 @@ https://rust-exercises.com/
  ### Build a blockchain indexer
 
  ### algorithms book
+
+ ### zk knowledge
+
+ https://www.youtube.com/@zeroknowledgefm/featured 
