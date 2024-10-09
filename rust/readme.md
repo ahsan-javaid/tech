@@ -31,3 +31,5 @@ https://rust-exercises.com/
  Small vds on topic like str vs String
 
  ### Build a blockchain indexer
+
+ ### algorithms book

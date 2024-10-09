@@ -3,7 +3,9 @@
 - GPT4o
 - Embeddings
 - LangChain channel
-- 
+- https://xevenskills.com/courses/artificial-intelligence-ai-free-advance-course-batch-02/ 
+-https://python.langchain.com/docs/introduction/ 
+
 ## Mind valley ai sumit
 https://www.youtube.com/watch?v=vuY2K1atMFQ
 
