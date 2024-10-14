@@ -37,3 +37,6 @@ https://rust-exercises.com/
  ### zk knowledge
 
  https://www.youtube.com/@zeroknowledgefm/featured 
+
+ https://ordinals.com/
+ runes lib on npm 
