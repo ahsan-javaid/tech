@@ -1,1 +1,11 @@
 * https://book.async.rs/introduction
+* https://doc.rust-lang.org/nomicon/intro.html
+* https://corrode.dev/blog/idiomatic-rust-resources/
+* https://doc.rust-lang.org/book/
+* https://doc.rust-lang.org/rust-by-example/
+* https://doc.rust-lang.org/std/index.html
+* https://doc.rust-lang.org/reference/index.html
+* https://doc.rust-lang.org/nightly/unstable-book/index.html
+* https://veykril.github.io/tlborm/introduction.html
+* https://rust-lang.github.io/async-book/
+* https://marabos.nl/atomics/basics.html
