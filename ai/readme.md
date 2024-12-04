@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=vuY2K1atMFQ
 - RAG tutorial: https://www.freecodecamp.org/news/mastering-rag-from-scratch/ 
 - CRAG 
 https://www.gaianet.ai/
+https://www.youtube.com/@naderdabit/videos
