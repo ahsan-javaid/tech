@@ -9,3 +9,5 @@
 * https://veykril.github.io/tlborm/introduction.html
 * https://rust-lang.github.io/async-book/
 * https://marabos.nl/atomics/basics.html
+* https://doc.rust-lang.org/reference/introduction.html
+* building bitcoin in rust - bitvmx
